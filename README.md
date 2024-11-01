@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cupid-0x80h</h1>
 <h3 align="center">A passionate security researcher.</h3>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3467684" style='border:none;'></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cupid-0x80h&label=Profile%20views&color=0e75b6&style=flat" alt="cupid-0x80h" /> </p>
 
