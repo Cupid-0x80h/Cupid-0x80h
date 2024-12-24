@@ -17,5 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cupid-0x80h&show_icons=true&locale=en" alt="cupid-0x80h" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cupid-0x80h&" alt="cupid-0x80h" /></p>
-![streak1500](https://github.com/user-attachments/assets/6ba679d4-0df0-4257-b6e3-8cd37348e226)
-![streak1250](https://github.com/user-attachments/assets/f08093e8-637c-44f2-b5b5-7e8fe0eee154)
